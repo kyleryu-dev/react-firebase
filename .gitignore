@@ -1,1 +1,4 @@
 node_modules/
+
+# firebase apiKey 보호
+.env
